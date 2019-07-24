@@ -1,1 +1,10 @@
 
+body {
+    color: gray;
+    text-align:center;
+    background-image: url("./bridge.jpg");
+}
+
+img {
+    width: 25%;
+}
